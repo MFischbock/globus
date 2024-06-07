@@ -3,6 +3,7 @@ import mediapipe as mp
 
 # Bittte installieren: pip install python-osc 
 from pythonosc.udp_client import SimpleUDPClient
+#Hello 
 
 cap = cv2.VideoCapture(0)
 mpHands = mp.solutions.hands
